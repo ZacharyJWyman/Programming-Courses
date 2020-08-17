@@ -1,0 +1,229 @@
+,name,institute,provider,date,review,rating
+1,R Programming,Johns Hopkins University,Coursera,"17th Aug, 2020",243 Reviews,2.7
+2,The Data Scientist’s Toolbox,Johns Hopkins University,Coursera,"17th Aug, 2020",163 Reviews,3.3
+3,The Analytics Edge,Massachusetts Institute of Technology,edX,"14th Sep, 2020",79 Reviews,4.6
+4,Data Analyst,Kaggle,Udacity,Self Paced,64 Reviews,4.5
+6,Getting and Cleaning Data,Johns Hopkins University,Coursera,"17th Aug, 2020",56 Reviews,3.5
+7,Introduction to Data Science in Python,University of Michigan,Coursera,"24th Aug, 2020",44 Reviews,2.5
+8,Python for Data Science,"University of California, San Diego",edX,"25th Aug, 2020",43 Reviews,4.4
+9,Exploratory Data Analysis,Johns Hopkins University,Coursera,"17th Aug, 2020",38 Reviews,3.9
+10,Introduction to Big Data,"University of California, San Diego",Coursera,"17th Aug, 2020",35 Reviews,2.7
+11,Computational Social Science,"University of California, Davis",Coursera,Self Paced,40 Reviews,4.8
+13,Statistical Inference,Johns Hopkins University,Coursera,"17th Aug, 2020",33 Reviews,2.8
+14,Regression Models,Johns Hopkins University,Coursera,"17th Aug, 2020",33 Reviews,2.5
+15,Reproducible Research,Johns Hopkins University,Coursera,"17th Aug, 2020",26 Reviews,3.9
+16,Mastering Data Analysis in Excel,Duke University,Coursera,"17th Aug, 2020",26 Reviews,1.8
+17,Hadoop Platform and Application Framework,"University of California, San Diego",Coursera,"17th Aug, 2020",25 Reviews,1.9
+18,Probability - The Science of Uncertainty and Data,Massachusetts Institute of Technology,edX,"1st Sep, 2020",29 Reviews,4.9
+19,Digital Analytics for Marketing Professionals: Marketing Analytics in Practice,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",24 Reviews,4.2
+20,Making Sense of Data in the Media,The University of Sheffield,FutureLearn,"7th Sep, 2020",28 Reviews,4.7
+21,Introduction to Computational Thinking and Data Science,Massachusetts Institute of Technology,edX,"14th Oct, 2020",31 Reviews,4.5
+22,Introduction to R for Data Science,Microsoft,edX,Self Paced,27 Reviews,4.1
+23,Whole genome sequencing of bacterial genomes - tools and applications,Technical University of Denmark (DTU),Coursera,"17th Aug, 2020",21 Reviews,4.8
+25,Pattern Discovery in Data Mining,University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",21 Reviews,2.1
+26,Mining Massive Datasets,Stanford University,edX,Self Paced,25 Reviews,4.6
+27,A Crash Course in Data Science,Johns Hopkins University,Coursera,"17th Aug, 2020",20 Reviews,3.4
+28,Data Visualization,University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",20 Reviews,3.3
+29,Probability and Statistics in Data Science using Python,"University of California, San Diego",edX,"25th Aug, 2020",20 Reviews,1.9
+30,Spatial Data Science: The New Frontier in Analytics,Esri,Independent,"28th Oct, 2020",27 Reviews,4.9
+31,Developing Data Products,Johns Hopkins University,Coursera,"17th Aug, 2020",18 Reviews,3.9
+32,Finding Hidden Messages in DNA (Bioinformatics I),"University of California, San Diego",Coursera,"24th Aug, 2020",17 Reviews,4.5
+33,Process Mining: Data science in Action,Eindhoven University of Technology,Coursera,"31st Aug, 2020",17 Reviews,4.4
+34,Intro to Hadoop and MapReduce,Cloudera,Udacity,Self Paced,20 Reviews,3.9
+35,Introduction to Python for Data Science,Microsoft,edX,Self Paced,20 Reviews,3.8
+37,Statistics and R,Harvard University,edX,Self Paced,20 Reviews,3.5
+38,Statistical Thinking for Data Science and Analytics,Columbia University,edX,Self Paced,19 Reviews,2.2
+39,Data Analysis with R,Facebook,Udacity,Self Paced,18 Reviews,4.6
+40,Big Data,"University of California, San Diego",Coursera,Self Paced,18 Reviews,1.5
+41,Building a Data Science Team,Johns Hopkins University,Coursera,"17th Aug, 2020",12 Reviews,3.5
+42,Python for Genomic Data Science,Johns Hopkins University,Coursera,"24th Aug, 2020",12 Reviews,2.4
+43,Aprendizaje automático y ciencia de datos,Universitat Politècnica de València,edX,Self Paced,16 Reviews,4.4
+44,Text Mining and Analytics,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",10 Reviews,3.7
+45,Data Science in Real Life,Johns Hopkins University,Coursera,"17th Aug, 2020",10 Reviews,3.0
+46,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",Coursera,"24th Aug, 2020",10 Reviews,3.5
+47,DCO042 - Python For Informatics,University of Michigan,Independent,Self Paced,14 Reviews,4.6
+49,Data Visualization and Communication with Tableau,Duke University,Coursera,"17th Aug, 2020",9 Reviews,3.8
+50,Data Science Math Skills,Duke University,Coursera,"17th Aug, 2020",9 Reviews,4.1
+51,Biology Meets Programming: Bioinformatics for Beginners,"University of California, San Diego",Coursera,"24th Aug, 2020",9 Reviews,3.4
+52,Intro to Data Science,-1,Udacity,Self Paced,13 Reviews,4.2
+53,Intro to Python for Data Science,-1,Datacamp,Self Paced,13 Reviews,4.3
+54,Data Analysis: Take It to the MAX(),Delft University of Technology,edX,Self Paced,13 Reviews,3.4
+55,Analyzing and Visualizing Data with Excel,Microsoft,edX,Self Paced,13 Reviews,4.2
+57,Data Analysis for Social Scientists,Massachusetts Institute of Technology,edX,"8th Sep, 2020",12 Reviews,3.0
+58,Introduction to R,-1,Datacamp,Self Paced,12 Reviews,3.8
+59,Data Science: R Basics,Harvard University,edX,Self Paced,10 Reviews,4.6
+60,Data Science,Johns Hopkins University,Coursera,Self Paced,10 Reviews,4.4
+62,Applied Data Science: An Introduction,Syracuse University,Open Education by Blackboard,Self Paced,8 Reviews,4.5
+63,Введение в биоинформатику (Introduction to Bioinformatics),Saint Petersburg State University,Coursera,"17th Aug, 2020",2 Reviews,5.0
+65,Data Management and Visualization,Wesleyan University,Coursera,"17th Aug, 2020",5 Reviews,2.4
+67,Data Analysis Tools,Wesleyan University,Coursera,"17th Aug, 2020",4 Reviews,3.0
+69,Cluster Analysis in Data Mining,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",7 Reviews,2.6
+70,Data Science Capstone,Johns Hopkins University,Coursera,"17th Aug, 2020",4 Reviews,3.0
+71,Machine Learning for Data Analysis,Wesleyan University,Coursera,"17th Aug, 2020",4 Reviews,3.5
+72,Genomic Data Science and Clustering (Bioinformatics V),"University of California, San Diego",Coursera,"17th Aug, 2020",2 Reviews,3.5
+73,Managing Data Analysis,Johns Hopkins University,Coursera,"17th Aug, 2020",7 Reviews,2.0
+74,Построение выводов по данным,Moscow Institute of Physics and Technology,Coursera,"17th Aug, 2020",1 Reviews,2.0
+75,Математика и Python для анализа данных,Moscow Institute of Physics and Technology,Coursera,"17th Aug, 2020",4 Reviews,4.0
+76,Big Data Integration and Processing,"University of California, San Diego",Coursera,"17th Aug, 2020",3 Reviews,4.0
+77,Uso de técnicas estadísticas para el análisis de datos,Tecnológico de Monterrey,Coursera,"17th Aug, 2020",1 Reviews,5.0
+79,Econometrics: Methods and Applications,Erasmus University Rotterdam,Coursera,"17th Aug, 2020",6 Reviews,4.0
+84,Practical Time Series Analysis,State University of New York,Coursera,"17th Aug, 2020",2 Reviews,4.5
+89,The R Programming Environment,Johns Hopkins University,Coursera,"17th Aug, 2020",4 Reviews,2.8
+90,Advanced R Programming,Johns Hopkins University,Coursera,"17th Aug, 2020",1 Reviews,4.0
+91,Building R Packages,Johns Hopkins University,Coursera,"17th Aug, 2020",2 Reviews,3.0
+94,SQL for Data Science,"University of California, Davis",Coursera,"17th Aug, 2020",1 Reviews,1.0
+97,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,Coursera,"17th Aug, 2020",7 Reviews,2.9
+98,Social Media Data Analytics,Rutgers University,Coursera,"17th Aug, 2020",2 Reviews,3.5
+101,Fundamentals of Visualization with Tableau,"University of California, Davis",Coursera,"17th Aug, 2020",2 Reviews,4.0
+103,SP21: Computing for Data Analysis,Georgia Institute of Technology,edX,"17th Aug, 2020",6 Reviews,2.5
+105,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,Coursera,"17th Aug, 2020",3 Reviews,3.0
+106,SP21: Introduction to Analytics Modeling,Georgia Institute of Technology,edX,"17th Aug, 2020",4 Reviews,4.3
+108,Foundations of mining non-structured medical data,EIT Digital,Coursera,"17th Aug, 2020",1 Reviews,1.0
+122,Information Visualization: Advanced Techniques,New York University (NYU),Coursera,"17th Aug, 2020",1 Reviews,5.0
+134,Discrete Math and Analyzing Social Graphs,Higher School of Economics,Coursera,"17th Aug, 2020",1 Reviews,2.0
+139,Introduction to Accounting Data Analytics and Visualization,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",1 Reviews,5.0
+140,3D Data Visualization for Science Communication,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",1 Reviews,5.0
+163,Mathematical Biostatistics Boot Camp 2,Johns Hopkins University,Coursera,"24th Aug, 2020",4 Reviews,4.0
+165,Genome Sequencing (Bioinformatics II),"University of California, San Diego",Coursera,"24th Aug, 2020",4 Reviews,5.0
+166,"Comparing Genes, Proteins, and Genomes (Bioinformatics III)","University of California, San Diego",Coursera,"24th Aug, 2020",2 Reviews,5.0
+167,"Data Warehouse Concepts, Design, and Data Integration",University of Colorado System,Coursera,"24th Aug, 2020",3 Reviews,3.0
+172,Communicating Data Science Results,University of Washington,Coursera,"24th Aug, 2020",2 Reviews,1.0
+174,Graph Analytics for Big Data,"University of California, San Diego",Coursera,"24th Aug, 2020",6 Reviews,2.5
+176,People Analytics,University of Pennsylvania,Coursera,"24th Aug, 2020",5 Reviews,4.2
+177,Qualitative Research Methods,University of Amsterdam,Coursera,"24th Aug, 2020",5 Reviews,3.6
+178,Managing Big Data with MySQL,Duke University,Coursera,"24th Aug, 2020",6 Reviews,4.0
+179,Introduction to Data Analysis Using Excel,Rice University,Coursera,"24th Aug, 2020",2 Reviews,2.5
+181,Big Data Modeling and Management Systems,"University of California, San Diego",Coursera,"24th Aug, 2020",3 Reviews,2.7
+182,"Big Data, Genes, and Medicine",State University of New York,Coursera,"24th Aug, 2020",1 Reviews,4.0
+183,Framework for Data Collection and Analysis,"University of Maryland, College Park",Coursera,"24th Aug, 2020",2 Reviews,3.5
+184,Data Analytics Foundations for Accountancy I,University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",2 Reviews,1.0
+186,Data Visualization with Python,IBM,Coursera,"24th Aug, 2020",1 Reviews,4.0
+187,Applied Data Science Capstone,IBM,Coursera,"24th Aug, 2020",1 Reviews,2.0
+188,Databases and SQL for Data Science,IBM,Coursera,"24th Aug, 2020",1 Reviews,2.0
+189,Data Analysis with Python,IBM,Coursera,"24th Aug, 2020",1 Reviews,4.0
+190,Big Data Analysis with Scala and Spark,École Polytechnique Fédérale de Lausanne,Coursera,"24th Aug, 2020",1 Reviews,3.0
+191,"Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",2 Reviews,3.0
+193,Data Visualization with Advanced Excel,PwC,Coursera,"24th Aug, 2020",1 Reviews,4.0
+195,What is Data Science?,IBM,Coursera,"24th Aug, 2020",1 Reviews,3.0
+197,Tools for Data Science,IBM,Coursera,"24th Aug, 2020",2 Reviews,1.0
+198,"Big Data Essentials: HDFS, MapReduce and Spark RDD",Yandex,Coursera,"24th Aug, 2020",3 Reviews,1.7
+200,How to Win a Data Science Competition: Learn from Top Kagglers,Higher School of Economics,Coursera,"24th Aug, 2020",2 Reviews,5.0
+201,Information Visualization: Programming with D3.js,New York University (NYU),Coursera,"24th Aug, 2020",1 Reviews,5.0
+202,Information Visualization: Foundations,New York University (NYU),Coursera,"24th Aug, 2020",1 Reviews,5.0
+203,Information Visualization: Applied Perception,New York University (NYU),Coursera,"24th Aug, 2020",1 Reviews,5.0
+207,Basic Data Processing and Visualization,"University of California, San Diego",Coursera,"24th Aug, 2020",1 Reviews,3.0
+211,Python for Data Science and AI,IBM,Coursera,"24th Aug, 2020",2 Reviews,2.5
+233,Social Network Analysis,"University of California, Davis",Coursera,"24th Aug, 2020",4 Reviews,5.0
+245,Data Science: Computational Thinking with Python,"University of California, Berkeley",edX,"26th Aug, 2020",2 Reviews,5.0
+250,Big Data Science with the BD2K-LINCS Data Coordination and Integration Center,Icahn School of Medicine at Mount Sinai,Coursera,"31st Aug, 2020",1 Reviews,4.0
+251,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,Coursera,"31st Aug, 2020",4 Reviews,5.0
+252,Fundamentos del análisis de datos para la toma de decisiones,Tecnológico de Monterrey,Coursera,"31st Aug, 2020",2 Reviews,3.5
+254,Advanced Linear Models for Data Science 1: Least Squares,Johns Hopkins University,Coursera,"31st Aug, 2020",1 Reviews,5.0
+257,Data Processing Using Python,Nanjing University,Coursera,"31st Aug, 2020",1 Reviews,3.0
+284,Business and Data Analysis Skills,Fullbridge,edX,"1st Sep, 2020",1 Reviews,4.0
+286,Python Basics for Data Science,IBM,edX,"1st Sep, 2020",2 Reviews,2.5
+288,Visualizing Data with Python,IBM,edX,"1st Sep, 2020",1 Reviews,1.0
+289,Analyzing Data with Python,IBM,edX,"1st Sep, 2020",3 Reviews,3.7
+293,SQL for Data Science,IBM,edX,"1st Sep, 2020",1 Reviews,1.0
+297,Research Data Management and Sharing,The University of North Carolina at Chapel Hill,Coursera,"7th Sep, 2020",1 Reviews,3.0
+299,Advanced Linear Models for Data Science 2: Statistical Linear Models,Johns Hopkins University,Coursera,"7th Sep, 2020",1 Reviews,5.0
+301,Applied Social Network Analysis in Python,University of Michigan,Coursera,"7th Sep, 2020",3 Reviews,4.3
+322,"Silicon Photonics Design, Fabrication and Data Analysis",The University of British Columbia,edX,"8th Sep, 2020",1 Reviews,5.0
+327,Big Data applications and Analytics,Indiana University,Independent,Self Paced,1 Reviews,3.0
+329,"Data, Analytics, and Learning",University of Texas Arlington,edX,Self Paced,2 Reviews,1.5
+330,Data Visualization and D3.js,-1,Udacity,Self Paced,5 Reviews,2.6
+331,Model Building and Validation,AT&T,Udacity,Self Paced,6 Reviews,2.0
+332,Case study: DNA methylation data analysis,Harvard University,edX,Self Paced,2 Reviews,4.5
+333,Sabermetrics 101: Introduction to Baseball Analytics,Boston University,edX,Self Paced,7 Reviews,4.3
+334,Driving Business Results with Big Data,-1,openSAP,Self Paced,1 Reviews,5.0
+338,Intro to Data Analysis,-1,Udacity,Self Paced,5 Reviews,4.0
+345,Data Analytics in Health – From Basics to Business,KU Leuven University,edX,Self Paced,1 Reviews,5.0
+350,Foundations of Data Analysis - Part 2: Inferential Statistics,The University of Texas at Austin,edX,Self Paced,2 Reviews,3.5
+351,Foundations of Data Analysis - Part 1: Statistics Using R,The University of Texas at Austin,edX,Self Paced,7 Reviews,4.0
+354,Understanding Data,-1,MRUniversity,Self Paced,1 Reviews,3.0
+366,Data Science Essentials,Microsoft,edX,Self Paced,5 Reviews,3.6
+367,Programming with Python for Data Science,Microsoft,edX,Self Paced,4 Reviews,3.8
+376,Data Analysis: Visualization and Dashboard Design,Delft University of Technology,edX,Self Paced,1 Reviews,3.0
+378,FA19: Deterministic Optimization,Georgia Institute of Technology,edX,Self Paced,4 Reviews,3.5
+388,Computational Thinking and Big Data,University of Adelaide,edX,Self Paced,1 Reviews,4.0
+390,Essential Statistics for Data Analysis using Excel,Microsoft,edX,Self Paced,3 Reviews,3.7
+393,Knowledge Management and Big Data in Business,Hong Kong Polytechnic University,edX,Self Paced,2 Reviews,3.5
+398,Processing Big Data with Hadoop in Azure HDInsight,Microsoft,edX,Self Paced,4 Reviews,4.5
+405,Data Analysis: A Practical Introduction for Absolute Beginners,Microsoft,edX,Self Paced,1 Reviews,4.0
+406,Applied Data Analysis: Working in Organizations and Industries,Microsoft,edX,Self Paced,1 Reviews,3.0
+412,Microsoft Professional Capstone : Data Science,Microsoft,edX,Self Paced,2 Reviews,5.0
+418,Introduction to Data Science,Microsoft,edX,Self Paced,6 Reviews,3.5
+425,Big Data and Education,Columbia University,edX,Self Paced,1 Reviews,3.0
+426,High-Dimensional Data Analysis,Harvard University,edX,Self Paced,3 Reviews,3.7
+429,数据挖掘：理论与算法 | Data Mining: Theories and Algorithms for Tackling Big Data,Tsinghua University,edX,Self Paced,2 Reviews,3.0
+434,Introduction to Data Analysis using Excel,Microsoft,edX,Self Paced,7 Reviews,3.9
+436,Data Mining with Weka,University of Waikato,FutureLearn,Self Paced,3 Reviews,4.3
+438,Introduction to Process Mining with ProM,Eindhoven University of Technology,FutureLearn,Self Paced,2 Reviews,4.0
+443,Introduction to R for Data Science,Purdue University,FutureLearn,Self Paced,1 Reviews,5.0
+447,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,Harvard University,edX,Self Paced,3 Reviews,5.0
+450,Análisis Estadístico de datos con R,Universidad Católica de Murcia,Miríadax,Self Paced,1 Reviews,1.0
+457,Data Science: Visualization,Harvard University,edX,Self Paced,3 Reviews,4.7
+458,Data Science: Probability,Harvard University,edX,Self Paced,2 Reviews,3.5
+459,Data Science: Inference and Modeling,Harvard University,edX,Self Paced,1 Reviews,4.0
+461,Data Science: Productivity Tools,Harvard University,edX,Self Paced,1 Reviews,5.0
+462,Data Science: Wrangling,Harvard University,edX,Self Paced,2 Reviews,4.5
+463,Data Science: Linear Regression,Harvard University,edX,Self Paced,2 Reviews,3.0
+464,Data Science: Machine Learning,Harvard University,edX,Self Paced,4 Reviews,3.8
+483,Data Streaming,-1,Udacity,Self Paced,1 Reviews,3.0
+508,Data Analysis and Interpretation,Wesleyan University,Coursera,Self Paced,1 Reviews,5.0
+510,Excel to MySQL: Analytic Techniques for Business,Duke University,Coursera,Self Paced,2 Reviews,3.0
+541,Data Mining,University of Illinois at Urbana-Champaign,Coursera,Self Paced,1 Reviews,5.0
+543,Executive Data Science,Johns Hopkins University,Coursera,Self Paced,2 Reviews,4.5
+567,Stochastic Processes: Data Analysis and Computer Simulation,Kyoto University,edX,"17th Sep, 2020",1 Reviews,5.0
+574,Bioinformatics Capstone: Big Data in Biology,"University of California, San Diego",Coursera,"5th Oct, 2020",1 Reviews,1.0
+576,Quantitative Biology Workshop,Massachusetts Institute of Technology,edX,"13th Oct, 2020",2 Reviews,5.0
+578,Successfully Evaluating Predictive Modelling,University of Edinburgh,edX,"10th Nov, 2020",1 Reviews,2.0
+583,Fundamentals of Statistics,Massachusetts Institute of Technology,edX,"10th May, 2021",7 Reviews,4.4
+595,Fondamentaux pour le Big Data,Institut Mines-Télécom,France Université Numerique,"3rd Dec, 2018",1 Reviews,4.0
+598,Health Data Analytics with Microsoft Excel,The College of St. Scholastica,Independent,"13th Jul, 2020",1 Reviews,5.0
+599,Data Science for Engineers,Indian Institute of Technology Madras,Swayam,"19th Jul, 2020",1 Reviews,1.0
+603,Molecular Dynamics for Computational Discoveries in Science,University of Massachusetts Boston,Independent,"25th Mar, 2013",1 Reviews,1.0
+604,Python for Informatics: Exploring Information,-1,Open Education by Blackboard,Self Paced,2 Reviews,4.5
+606,Data Analysis,Johns Hopkins University,Coursera,"28th Oct, 2013",20 Reviews,4.2
+607,Computing for Data Analysis,Johns Hopkins University,Coursera,"6th Jan, 2014",27 Reviews,3.4
+609,Making Sense of Data,Google,Independent,Self Paced,9 Reviews,3.4
+611,PH525x: Data Analysis for Genomics,Harvard University,edX,"7th Apr, 2014",2 Reviews,4.5
+612,Web Intelligence and Big Data,Indian Institute of Technology Delhi,Coursera,"20th Apr, 2014",11 Reviews,2.9
+613,Core Concepts in Data Analysis,Higher School of Economics,Coursera,"21st Apr, 2014",8 Reviews,3.3
+614,Bioinformatics: Life Sciences on Your Computer,Johns Hopkins University,Coursera,"9th Jun, 2014",4 Reviews,4.8
+615,Introduction to Data Science,University of Washington,Coursera,"30th Jun, 2014",31 Reviews,3.5
+617,The Caltech-JPL Summer School on Big Data Analytics,California Institute of Technology,Coursera,"2nd Sep, 2014",2 Reviews,5.0
+618,Social Network Analysis,University of Michigan,Coursera,"6th Oct, 2014",12 Reviews,4.2
+620,UT.7.01x: Foundations of Data Analysis,The University of Texas at Austin,edX,"4th Nov, 2014",8 Reviews,4.6
+623,Computational Methods for Data Analysis,University of Washington,Coursera,"5th Jan, 2015",4 Reviews,5.0
+624,Statistical Analysis of fMRI Data,Johns Hopkins University,Coursera,"9th Feb, 2015",1 Reviews,4.0
+625,High Performance Scientific Computing,University of Washington,Coursera,"20th Feb, 2015",1 Reviews,5.0
+626,Bioinformatics Algorithms (Part 2),"University of California, San Diego",Coursera,"16th Mar, 2015",4 Reviews,3.8
+629,Optimisation Stochastique Évolutionnaire,Université de Strasbourg,France Université Numerique,"4th May, 2015",1 Reviews,3.0
+631,Explore Statistics with R,Karolinska Institutet,edX,"7th Jul, 2015",14 Reviews,3.7
+632,Data Mining Capstone,University of Illinois at Urbana-Champaign,Coursera,"31st Aug, 2015",1 Reviews,3.0
+634,Data Analysis and Statistical Inference,Duke University,Coursera,"14th Sep, 2015",40 Reviews,4.7
+637,Qualitative Research Methods,University of Amsterdam,Coursera,"26th Oct, 2015",1 Reviews,5.0
+638,Scientific Computing,University of Washington,Coursera,"16th Nov, 2015",3 Reviews,3.7
+641,Biology Meets Programming: Bioinformatics for Beginners,"University of California, San Diego",Coursera,"25th Jan, 2016",3 Reviews,3.3
+643,More Data Mining with Weka,University of Waikato,Independent,"26th Feb, 2016",9 Reviews,4.9
+644,Data Mining with Weka,University of Waikato,Independent,"26th Feb, 2016",19 Reviews,4.8
+645,Data Mining - Classification,University of Milano-Bicocca,EduOpen,"21st Apr, 2016",1 Reviews,5.0
+647,Introduction to Big Data Analytics,"University of California, San Diego",Coursera,"13th Jun, 2016",10 Reviews,1.0
+648,Introduction to Apache Spark,"University of California, Berkeley",edX,"15th Jun, 2016",9 Reviews,3.6
+650,Big Data Analysis with Apache Spark,"University of California, Berkeley",edX,"15th Aug, 2016",43 Reviews,4.3
+653,CS115x: Advanced Apache Spark for Data Science and Data Engineering,"University of California, Berkeley",edX,"21st Sep, 2016",1 Reviews,5.0
+655,Information Visualization,Indiana University,Independent,"12th Jan, 2017",2 Reviews,4.5
+659,Big Data: Measuring And Predicting Human Behaviour,The University of Warwick,FutureLearn,"22nd May, 2017",6 Reviews,4.2
+661,Advanced Data Mining with Weka,University of Waikato,Independent,"10th Jun, 2017",2 Reviews,5.0
+675,Big Data: Statistical Inference and Machine Learning,Queensland University of Technology,FutureLearn,"13th Aug, 2018",3 Reviews,4.0
+680,Big Data: Mathematical Modelling,Queensland University of Technology,FutureLearn,"17th Sep, 2018",1 Reviews,4.0
+681,"Big Data, Cloud Computing, & CDN Emerging Technologies",Yonsei University,Coursera,"1st Oct, 2018",4 Reviews,3.3
+683,Learn to Code for Data Analysis,The Open University,FutureLearn,"15th Oct, 2018",4 Reviews,3.5
+686,Big Data: Data Visualisation,Queensland University of Technology,FutureLearn,"22nd Oct, 2018",1 Reviews,4.0
+688,Big Data for Better Performance,-1,Open2Study,"18th Nov, 2018",11 Reviews,3.5
+692,社会人のためのデータサイエンス入門 (ga031),The University of Tokyo,gacco,"16th Apr, 2019",1 Reviews,5.0
+693,統計学Ⅰ：データ分析の基礎 (ga014),The University of Tokyo,gacco,"17th Apr, 2019",2 Reviews,4.5
+694,社会人のためのデータサイエンス演習 (ga063),MIC Ministry of Internal Affairs and Communications,gacco,"14th May, 2019",1 Reviews,4.0
+699,Python for Data Science,IBM,Coursera,"15th Jul, 2019",1 Reviews,3.0
+716,Social Media Analytics: Using Data to Understand Public Conversations,Queensland University of Technology,FutureLearn,"11th Nov, 2019",2 Reviews,4.0

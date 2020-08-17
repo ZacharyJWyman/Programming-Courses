@@ -1,0 +1,482 @@
+,name,institute,provider,date,review,rating
+1,Elements of AI,University of Helsinki,Independent,Self Paced,573 Reviews,4.8
+2,Machine Learning,Stanford University,Coursera,"17th Aug, 2020",369 Reviews,4.8
+3,Unlocking Information Security: Part Ⅰ,Tel Aviv University,edX,Self Paced,142 Reviews,4.8
+4,Introduction to Computer Science and Programming Using Python,Massachusetts Institute of Technology,edX,"26th Aug, 2020",126 Reviews,4.5
+6,CS50's Introduction to Computer Science,Harvard University,edX,Self Paced,95 Reviews,4.5
+7,Machine Learning for Musicians and Artists,"Goldsmiths, University of London",Kadenze,Self Paced,84 Reviews,4.8
+8,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University,Coursera,"24th Aug, 2020",67 Reviews,4.7
+9,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,Coursera,"24th Aug, 2020",66 Reviews,4.6
+10,Cyber Security,UGC,Swayam,"1st Jul, 2020",92 Reviews,4.7
+11,"Algorithms, Part I",Princeton University,Coursera,"31st Aug, 2020",60 Reviews,4.5
+13,"Information Systems Auditing, Controls and Assurance",The Hong Kong University of Science and Technology,Coursera,"17th Aug, 2020",56 Reviews,4.8
+14,Cryptography I,Stanford University,Coursera,"31st Aug, 2020",53 Reviews,4.7
+15,"Internet History, Technology, and Security",University of Michigan,Coursera,"31st Aug, 2020",41 Reviews,4.7
+16,Functional Program Design in Scala,École Polytechnique Fédérale de Lausanne,Coursera,"24th Aug, 2020",40 Reviews,4.5
+17,Machine Learning Foundations: A Case Study Approach,University of Washington,Coursera,"17th Aug, 2020",39 Reviews,3.9
+18,Transport Systems: Global Issues and Future Innovations,University of Leeds,FutureLearn,Self Paced,43 Reviews,4.8
+19,Introduction to Linux,Linux Foundation,edX,Self Paced,37 Reviews,4.1
+20,Computational Social Science Methods,"University of California, Davis",Coursera,"24th Aug, 2020",32 Reviews,4.8
+21,Principles of Computing (Part 1),Rice University,Coursera,"17th Aug, 2020",31 Reviews,4.6
+22,CS188.1x: Artificial Intelligence,"University of California, Berkeley",edX,Self Paced,32 Reviews,4.7
+23,Fundamentos TIC para profesionales de negocios: Hardware,Universitat Politècnica de València,edX,Self Paced,32 Reviews,4.6
+25,Software Security,"University of Maryland, College Park",Coursera,"17th Aug, 2020",27 Reviews,4.2
+26,Practical Machine Learning,Johns Hopkins University,Coursera,"17th Aug, 2020",26 Reviews,3.4
+27,Unlocking Information Security: Part ⅠⅠ,Tel Aviv University,edX,Self Paced,30 Reviews,4.7
+28,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,Coursera,"24th Aug, 2020",25 Reviews,4.9
+29,Fundamentals of Reinforcement Learning,University of Alberta,Coursera,"24th Aug, 2020",24 Reviews,4.9
+30,Algorithmic Toolbox,"University of California, San Diego",Coursera,"17th Aug, 2020",23 Reviews,3.6
+31,INTRODUCTION TO CYBER SECURITY,IGNOU,Swayam,"1st Jun, 2020",48 Reviews,4.5
+32,"Cloud Computing Concepts, Part 1",University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",21 Reviews,2.6
+33,"Algorithms, Part II",Princeton University,Coursera,"24th Aug, 2020",21 Reviews,4.8
+34,Bitcoin and Cryptocurrency Technologies,Princeton University,Coursera,"31st Aug, 2020",21 Reviews,4.4
+35,Introduction to Artificial Intelligence,Stanford University,Udacity,Self Paced,25 Reviews,4.0
+37,Machine Learning: Regression,University of Washington,Coursera,"17th Aug, 2020",20 Reviews,4.6
+38,Julia Scientific Programming,University of Cape Town,Coursera,"24th Aug, 2020",20 Reviews,4.3
+39,Cybersecurity Fundamentals,Rochester Institute of Technology,edX,"18th Aug, 2020",19 Reviews,4.8
+40,Web Security Fundamentals,KU Leuven University,edX,Self Paced,22 Reviews,4.2
+41,Sample-based Learning Methods,University of Alberta,Coursera,"17th Aug, 2020",17 Reviews,4.6
+42,Principles of Computing (Part 2),Rice University,Coursera,"17th Aug, 2020",16 Reviews,4.4
+43,Automata Theory,Stanford University,edX,Self Paced,20 Reviews,4.0
+44,Algorithmic Thinking (Part 1),Rice University,Coursera,"17th Aug, 2020",15 Reviews,4.1
+45,Neural Networks and Deep Learning,deeplearning.ai,Coursera,"24th Aug, 2020",15 Reviews,4.8
+46,Introduction to Machine Learning Course,Stanford University,Udacity,Self Paced,19 Reviews,3.9
+47,Machine Learning With Big Data,"University of California, San Diego",Coursera,"24th Aug, 2020",14 Reviews,1.9
+49,Text Retrieval and Search Engines,University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",14 Reviews,3.3
+50,Probabilistic Graphical Models 1: Representation,Stanford University,Coursera,"7th Sep, 2020",18 Reviews,4.1
+51,The Nature of Code,Processing Foundation,Kadenze,Self Paced,18 Reviews,5.0
+52,Computer Science 101,Stanford University,edX,Self Paced,18 Reviews,3.8
+53,A Complete Reinforcement Learning System (Capstone),University of Alberta,Coursera,"24th Aug, 2020",13 Reviews,4.5
+54,Fundamentos TIC para profesionales de negocios: Desarrollo de Software,Universitat Politècnica de València,edX,Self Paced,17 Reviews,4.5
+55,The Arduino Platform and C Programming,"University of California, Irvine",Coursera,"24th Aug, 2020",12 Reviews,2.8
+57,Introduction to the Internet of Things and Embedded Systems,"University of California, Irvine",Coursera,"24th Aug, 2020",12 Reviews,3.9
+59,Aprendizaje automático y ciencia de datos,Universitat Politècnica de València,edX,Self Paced,16 Reviews,4.4
+60,Data Structures,"University of California, San Diego",Coursera,"17th Aug, 2020",11 Reviews,4.2
+62,Hardware Security,"University of Maryland, College Park",Coursera,"24th Aug, 2020",11 Reviews,3.1
+63,Computer Simulations,"University of California, Davis",Coursera,"24th Aug, 2020",11 Reviews,5.0
+64,Fundamentos TIC para profesionales de negocios: Aplicaciones empresariales,Universitat Politècnica de València,edX,Self Paced,15 Reviews,4.9
+65,Machine Learning for Data Science and Analytics,Columbia University,edX,Self Paced,15 Reviews,3.1
+66,Computational Social Science Capstone Project,"University of California, Davis",Coursera,"24th Aug, 2020",10 Reviews,5.0
+67,Design of Computer Programs,Stanford University,Udacity,Self Paced,14 Reviews,4.1
+69,Aplicaciones de la Teoría de Grafos a la Vida Real (I),Universitat Politècnica de València,edX,Self Paced,14 Reviews,4.5
+70,Usable Security,"University of Maryland, College Park",Coursera,"17th Aug, 2020",9 Reviews,3.0
+71,"Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",9 Reviews,3.1
+72,Algorithmic Thinking (Part 2),Rice University,Coursera,"17th Aug, 2020",9 Reviews,4.4
+73,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,Coursera,"17th Aug, 2020",9 Reviews,4.9
+74,Prediction and Control with Function Approximation,University of Alberta,Coursera,"17th Aug, 2020",9 Reviews,4.8
+75,Cryptography,"University of Maryland, College Park",Coursera,"17th Aug, 2020",8 Reviews,4.3
+76,Machine Learning: Classification,University of Washington,Coursera,"17th Aug, 2020",8 Reviews,4.8
+77,Convolutional Neural Networks,deeplearning.ai,Coursera,"17th Aug, 2020",8 Reviews,4.9
+78,Introduction to Software Product Management,University of Alberta,Coursera,"7th Sep, 2020",12 Reviews,4.4
+79,Deep Learning,Amazon,Udacity,Self Paced,13 Reviews,4.6
+81,How to Code: Simple Data,The University of British Columbia,edX,Self Paced,12 Reviews,4.0
+82,Learning from Data (Introductory Machine Learning course),California Institute of Technology,Independent,Self Paced,10 Reviews,4.6
+83,Introducción a la programación en C: Tipos de datos y estructuras,Universidad Autónoma de Madrid,edX,Self Paced,10 Reviews,4.7
+84,Linux Command Line Basics,-1,Udacity,Self Paced,9 Reviews,3.7
+85,Introducción al diseño de hardware con Verilog,Galileo University,edX,Self Paced,9 Reviews,3.9
+86,Cybersecurity and Its Ten Domains,University System of Georgia,Coursera,"7th Sep, 2020",8 Reviews,2.8
+87,Software Processes and Agile Practices,University of Alberta,Coursera,"7th Sep, 2020",8 Reviews,4.4
+88,Artificial Intelligence (AI),Columbia University,edX,"21st Sep, 2020",11 Reviews,4.1
+89,Machine Learning,Columbia University,edX,"21st Sep, 2020",11 Reviews,4.0
+90,Reinforcement Learning,Brown University,Udacity,Self Paced,8 Reviews,2.9
+91,"Practical Deep Learning For Coders, Part 1",fast.ai,Independent,Self Paced,8 Reviews,3.8
+93,Codificación de audio: Más allá del MP3,Universitat Politècnica de València,edX,Self Paced,8 Reviews,4.8
+94,Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital,Duke University,Coursera,"17th Aug, 2020",7 Reviews,3.6
+96,Cloud Computing Concepts: Part 2,University of Illinois at Urbana-Champaign,Coursera,"17th Aug, 2020",4 Reviews,4.8
+97,Advanced Data Structures in Java,"University of California, San Diego",Coursera,"17th Aug, 2020",2 Reviews,3.5
+98,Machine Learning for Data Analysis,Wesleyan University,Coursera,"17th Aug, 2020",4 Reviews,3.5
+100,Machine Learning: Clustering & Retrieval,University of Washington,Coursera,"17th Aug, 2020",4 Reviews,4.8
+102,Data Structures and Performance,"University of California, San Diego",Coursera,"17th Aug, 2020",6 Reviews,4.0
+103,Mastering the Software Engineering Interview,"University of California, San Diego",Coursera,"17th Aug, 2020",3 Reviews,3.7
+105,Internet of Things: Communication Technologies,"University of California, San Diego",Coursera,"17th Aug, 2020",3 Reviews,3.0
+107,Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,Coursera,"17th Aug, 2020",4 Reviews,3.3
+115,Google Cloud Platform Fundamentals: Core Infrastructure,Google,Coursera,"17th Aug, 2020",4 Reviews,4.0
+121,IT Security: Defense against the digital dark arts,Google,Coursera,"17th Aug, 2020",1 Reviews,5.0
+122,System Administration and IT Infrastructure Services,Google,Coursera,"17th Aug, 2020",1 Reviews,5.0
+123,Technical Support Fundamentals,Google,Coursera,"17th Aug, 2020",5 Reviews,2.8
+125,Operating Systems and You: Becoming a Power User,Google,Coursera,"17th Aug, 2020",1 Reviews,1.0
+126,The Bits and Bytes of Computer Networking,Google,Coursera,"17th Aug, 2020",1 Reviews,5.0
+127,Systems and Application Security,(ISC)²,Coursera,"17th Aug, 2020",1 Reviews,4.0
+129,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",(ISC)²,Coursera,"17th Aug, 2020",1 Reviews,4.0
+133,Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,Coursera,"17th Aug, 2020",1 Reviews,5.0
+135,Practical Reinforcement Learning,Higher School of Economics,Coursera,"17th Aug, 2020",2 Reviews,4.5
+140,Nearest Neighbor Collaborative Filtering,University of Minnesota,Coursera,"17th Aug, 2020",2 Reviews,2.0
+152,Windows Server Management and Security,University of Colorado System,Coursera,"17th Aug, 2020",2 Reviews,4.5
+162,An Introduction to Practical Deep Learning,Intel,Coursera,"17th Aug, 2020",1 Reviews,3.0
+163,Mathematics for Machine Learning: PCA,Imperial College London,Coursera,"17th Aug, 2020",3 Reviews,2.0
+167,Sequence Models for Time Series and Natural Language Processing,Google Cloud,Coursera,"17th Aug, 2020",1 Reviews,1.0
+171,Reinforcement Learning in Finance,New York University (NYU),Coursera,"17th Aug, 2020",2 Reviews,1.0
+172,Overview of Advanced Methods of Reinforcement Learning in Finance,New York University (NYU),Coursera,"17th Aug, 2020",1 Reviews,1.0
+189,Mathematics for Computer Science,University of London International Programmes,Coursera,"17th Aug, 2020",1 Reviews,5.0
+201,Computer Science: Programming with a Purpose,Princeton University,Coursera,"17th Aug, 2020",1 Reviews,5.0
+206,Computer Vision Basics,University at Buffalo,Coursera,"17th Aug, 2020",1 Reviews,5.0
+219,Introduction to Cybersecurity Tools & Cyber Attacks,IBM,Coursera,"17th Aug, 2020",1 Reviews,1.0
+234,AI For Everyone,deeplearning.ai,Coursera,"17th Aug, 2020",5 Reviews,4.4
+253,Digital Skills: Artificial Intelligence,Accenture,FutureLearn,"17th Aug, 2020",1 Reviews,3.0
+267,C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",Coursera,"17th Aug, 2020",2 Reviews,3.5
+283,Troubleshooting and Debugging Techniques,Google,Coursera,"17th Aug, 2020",1 Reviews,5.0
+327,Custom Prediction Routine on Google AI Platform,Coursera Project Network,Coursera,"17th Aug, 2020",1 Reviews,5.0
+329,Innovations in Investment Technology: Artificial Intelligence,University of Michigan,FutureLearn,"17th Aug, 2020",1 Reviews,4.0
+363,Computer Forensics,Rochester Institute of Technology,edX,"18th Aug, 2020",1 Reviews,5.0
+364,Network Security,Rochester Institute of Technology,edX,"18th Aug, 2020",3 Reviews,5.0
+367,Introduction to Blockchain Technologies,INSEAD,Coursera,"19th Aug, 2020",1 Reviews,5.0
+370,Regression Modeling in Practice,Wesleyan University,Coursera,"21st Aug, 2020",3 Reviews,4.0
+371,機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations,National Taiwan University,Coursera,"23rd Aug, 2020",2 Reviews,5.0
+373,Interprofessional Healthcare Informatics,University of Minnesota,Coursera,"24th Aug, 2020",2 Reviews,4.0
+374,機器學習技法 (Machine Learning Techniques),National Taiwan University,Coursera,"24th Aug, 2020",1 Reviews,5.0
+378,Interfacing with the Raspberry Pi,"University of California, Irvine",Coursera,"24th Aug, 2020",2 Reviews,2.5
+379,Cloud Networking,University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",5 Reviews,3.8
+380,The Raspberry Pi Platform and Python Programming for the Raspberry Pi,"University of California, Irvine",Coursera,"24th Aug, 2020",5 Reviews,3.2
+381,Practical Predictive Analytics: Models and Methods,University of Washington,Coursera,"24th Aug, 2020",3 Reviews,2.0
+382,Interfacing with the Arduino,"University of California, Irvine",Coursera,"24th Aug, 2020",6 Reviews,4.3
+386,Строим роботов и другие устройства на Arduino. От светофора до 3D-принтера,Moscow Institute of Physics and Technology,Coursera,"24th Aug, 2020",1 Reviews,5.0
+388,Computer Architecture,Princeton University,Coursera,"24th Aug, 2020",6 Reviews,4.2
+389,Поиск структуры в данных,Moscow Institute of Physics and Technology,Coursera,"24th Aug, 2020",2 Reviews,3.0
+390,Managing an Agile Team,University of Virginia,Coursera,"24th Aug, 2020",1 Reviews,2.0
+391,Обучение на размеченных данных,Moscow Institute of Physics and Technology,Coursera,"24th Aug, 2020",2 Reviews,5.0
+398,"Programming Languages, Part B",University of Washington,Coursera,"24th Aug, 2020",3 Reviews,4.0
+400,Алгоритмизация вычислений (Algorithmic computation),Higher School of Economics,Coursera,"24th Aug, 2020",1 Reviews,2.0
+402,Probabilistic Graphical Models 2: Inference,Stanford University,Coursera,"24th Aug, 2020",3 Reviews,4.3
+407,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,Coursera,"24th Aug, 2020",3 Reviews,5.0
+408,Sequence Models,deeplearning.ai,Coursera,"24th Aug, 2020",4 Reviews,4.8
+409,Structuring Machine Learning Projects,deeplearning.ai,Coursera,"24th Aug, 2020",3 Reviews,5.0
+412,Архитектура ЭВМ (Computer Architecture),Saint Petersburg State University,Coursera,"24th Aug, 2020",1 Reviews,5.0
+413,Natural Language Processing,Higher School of Economics,Coursera,"24th Aug, 2020",2 Reviews,5.0
+419,Cyber Threats and Attack Vectors,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,4.0
+420,Introduction to Cybersecurity for Business,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,4.0
+421,Proactive Computer Security,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,5.0
+422,Hacking and Patching,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,5.0
+430,Secure Networked System with Firewall and IDS,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,4.0
+433,Fundamentals of Parallelism on Intel Architecture,Intel,Coursera,"24th Aug, 2020",1 Reviews,5.0
+435,Fundamentals of Machine Learning in Finance,New York University (NYU),Coursera,"24th Aug, 2020",1 Reviews,1.0
+437,"Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",University of Illinois at Urbana-Champaign,Coursera,"24th Aug, 2020",2 Reviews,3.0
+438,Applied Text Mining in Python,University of Michigan,Coursera,"24th Aug, 2020",2 Reviews,2.0
+439,Applied Machine Learning in Python,University of Michigan,Coursera,"24th Aug, 2020",6 Reviews,4.0
+446,Introduction to Cloud Identity,Google Cloud,Coursera,"24th Aug, 2020",1 Reviews,5.0
+447,Practical Machine Learning on H2O,H2O,Coursera,"24th Aug, 2020",2 Reviews,3.0
+450,Fundamentals of Network Communication,University of Colorado System,Coursera,"24th Aug, 2020",1 Reviews,5.0
+456,Launching into Machine Learning,Google Cloud,Coursera,"24th Aug, 2020",2 Reviews,4.0
+461,Blockchain Basics,University at Buffalo,Coursera,"24th Aug, 2020",1 Reviews,2.0
+465,Machine Learning with Python,IBM,Coursera,"24th Aug, 2020",2 Reviews,5.0
+468,Introduction to Deep Learning,Higher School of Economics,Coursera,"24th Aug, 2020",3 Reviews,2.7
+469,Deep Learning in Computer Vision,Higher School of Economics,Coursera,"24th Aug, 2020",3 Reviews,2.3
+476,Production Machine Learning Systems,Google Cloud,Coursera,"24th Aug, 2020",1 Reviews,1.0
+479,Introduction to Machine Learning,Duke University,Coursera,"24th Aug, 2020",1 Reviews,2.0
+497,Introduction to Artificial Intelligence (AI),IBM,Coursera,"24th Aug, 2020",1 Reviews,5.0
+511,Enterprise Systems,University of Minnesota,Coursera,"24th Aug, 2020",2 Reviews,4.5
+592,AWS Computer Vision: Getting Started with GluonCV,Amazon Web Services,Coursera,"24th Aug, 2020",1 Reviews,5.0
+595,Physical Basics of Quantum Computing,Saint Petersburg State University,Coursera,"24th Aug, 2020",1 Reviews,5.0
+624,Machine Learning Fundamentals,"University of California, San Diego",edX,"25th Aug, 2020",3 Reviews,4.3
+626,Natural Language Processing in TensorFlow,deeplearning.ai,Coursera,"26th Aug, 2020",1 Reviews,4.0
+631,Networks Illustrated: Principles without Calculus,Princeton University,Coursera,"31st Aug, 2020",3 Reviews,4.0
+633,Internet of Things: Setting Up Your DragonBoard™ Development Platform,"University of California, San Diego",Coursera,"31st Aug, 2020",4 Reviews,3.0
+634,Internet of Things: How did we get here?,"University of California, San Diego",Coursera,"31st Aug, 2020",6 Reviews,1.8
+639,Введение в машинное обучение,Higher School of Economics,Coursera,"31st Aug, 2020",2 Reviews,4.0
+641,Software Defined Networking,Princeton University,Coursera,"31st Aug, 2020",7 Reviews,3.6
+642,"Networks: Friends, Money, and Bytes",Princeton University,Coursera,"31st Aug, 2020",3 Reviews,3.7
+643,Programming for the Internet of Things Project,"University of California, Irvine",Coursera,"31st Aug, 2020",1 Reviews,4.0
+644,Electrones en Acción: Electrónica y Arduinos para tus propios Inventos,Pontificia Universidad Católica de Chile,Coursera,"31st Aug, 2020",1 Reviews,1.0
+645,Quantitative Formal Modeling and Worst-Case Performance Analysis,EIT Digital,Coursera,"31st Aug, 2020",3 Reviews,3.0
+646,Robotics: Perception,University of Pennsylvania,Coursera,"31st Aug, 2020",3 Reviews,3.0
+651,"Programming Languages, Part C",University of Washington,Coursera,"31st Aug, 2020",2 Reviews,4.0
+655,Introduction to Computer Programming,University of London International Programmes,Coursera,"31st Aug, 2020",1 Reviews,5.0
+656,How Computers Work,University of London International Programmes,Coursera,"31st Aug, 2020",1 Reviews,5.0
+661,Developing AI Applications on Azure,LearnQuest,Coursera,"31st Aug, 2020",4 Reviews,4.8
+662,Machine Learning for All,University of London International Programmes,Coursera,"31st Aug, 2020",1 Reviews,5.0
+719,The Quantum Internet and Quantum Computers: How Will They Change the World?,Delft University of Technology,edX,"1st Sep, 2020",1 Reviews,2.0
+722,Machine Learning with Python: A Practical Introduction,IBM,edX,"1st Sep, 2020",1 Reviews,5.0
+737,Analysis of Algorithms,Princeton University,Coursera,"7th Sep, 2020",4 Reviews,4.8
+739,Detección de objetos,Universitat Autònoma de Barcelona (Autonomous University of Barcelona),Coursera,"7th Sep, 2020",4 Reviews,4.0
+741,Approximation Algorithms Part I,École normale supérieure,Coursera,"7th Sep, 2020",2 Reviews,5.0
+742,Client Needs and Software Requirements,University of Alberta,Coursera,"7th Sep, 2020",6 Reviews,4.5
+743,Agile Planning for Software Products,University of Alberta,Coursera,"7th Sep, 2020",1 Reviews,3.0
+744,"HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Administrative/IT Perspective)",Columbia University,Coursera,"7th Sep, 2020",1 Reviews,5.0
+746,Software Architecture for the Internet of Things,EIT Digital,Coursera,"7th Sep, 2020",1 Reviews,4.0
+750,The Unix Workbench,Johns Hopkins University,Coursera,"7th Sep, 2020",2 Reviews,4.0
+757,La Disrupción del Blockchain,Universidad Austral,Coursera,"7th Sep, 2020",1 Reviews,5.0
+763,Machine Learning for Business Professionals,Google Cloud,Coursera,"7th Sep, 2020",4 Reviews,4.8
+771,Intel® Network Academy - Network Transformation 101,Intel,Coursera,"7th Sep, 2020",2 Reviews,3.0
+779,Mastering Digital Twins,EIT Digital,Coursera,"7th Sep, 2020",1 Reviews,2.0
+819,Basics of Network Security,Coventry University,FutureLearn,"14th Sep, 2020",1 Reviews,1.0
+830,Applied Cryptography,University of Virginia,Udacity,Self Paced,5 Reviews,4.2
+831,Intro to Algorithms,-1,Udacity,Self Paced,6 Reviews,2.7
+833,Software Testing,University of Utah,Udacity,Self Paced,7 Reviews,4.0
+834,Software Debugging,Saarland University,Udacity,Self Paced,5 Reviews,4.6
+835,Intro to Theoretical Computer Science,-1,Udacity,Self Paced,1 Reviews,5.0
+836,Introduction to Computer Architecture,Carnegie Mellon University,Independent,Self Paced,5 Reviews,5.0
+838,Introduction to Software Development on SAP HANA,-1,openSAP,Self Paced,6 Reviews,4.7
+841,Paradigms of Computer Programming,Université catholique de Louvain,edX,Self Paced,1 Reviews,4.0
+842,Introduction to Internetworking with TCP/IP,-1,openHPI,Self Paced,4 Reviews,3.5
+843,In-Memory Data Management In a Nutshell,-1,openSAP,Self Paced,1 Reviews,2.0
+844,Software Development Process,Georgia Institute of Technology,Udacity,Self Paced,5 Reviews,3.6
+846,Computer Networking,Georgia Institute of Technology,Udacity,Self Paced,6 Reviews,4.2
+847,An Introduction to SAP HANA,-1,openSAP,Self Paced,2 Reviews,3.5
+850,Advanced Operating Systems,Georgia Institute of Technology,Udacity,Self Paced,5 Reviews,4.8
+851,High Performance Computer Architecture,Georgia Institute of Technology,Udacity,Self Paced,1 Reviews,5.0
+853,"Computability, Complexity & Algorithms",Georgia Institute of Technology,Udacity,Self Paced,1 Reviews,5.0
+854,Knowledge-Based AI: Cognitive Systems,Georgia Institute of Technology,Udacity,Self Paced,2 Reviews,3.0
+855,Health Informatics in the Cloud,Georgia Institute of Technology,Udacity,Self Paced,1 Reviews,4.0
+856,ABAP Development for SAP HANA,-1,openSAP,Self Paced,1 Reviews,2.0
+857,BI Clients and Applications on SAP HANA,-1,openSAP,Self Paced,1 Reviews,2.0
+858,Next Steps in Software Development on SAP HANA,-1,openSAP,Self Paced,1 Reviews,4.0
+859,JavaScript Testing,-1,Udacity,Self Paced,3 Reviews,4.0
+861,A/B Testing,Google,Udacity,Self Paced,4 Reviews,3.5
+862,Medicine in the Digital Age,Rice University,edX,Self Paced,1 Reviews,4.0
+863,MyCS: Computer Science for Beginners,Harvey Mudd College,edX,Self Paced,1 Reviews,3.0
+867,Building Cloud Apps with Microsoft Azure - Part 1 (self-paced),Microsoft,edX,Self Paced,1 Reviews,3.0
+868,Debugging on SAP,OnSAP Academy,Independent,Self Paced,1 Reviews,5.0
+870,SAP Screen Personas,-1,openSAP,Self Paced,1 Reviews,5.0
+871,How the Internet of Things and Smart Services Will Change Society,-1,openSAP,Self Paced,7 Reviews,4.1
+872,Responsabilidad Social Corporativa y su impacto sobre la Gestión de la Tecnología de la Información,Open Education Consortium (OEC),edX,Self Paced,2 Reviews,4.0
+873,Application Development for SAP Business ByDesign,-1,openSAP,Self Paced,1 Reviews,5.0
+874,Web Technologies,-1,openHPI,Self Paced,7 Reviews,4.6
+875,Intro to DevOps,Nutanix,Udacity,Self Paced,7 Reviews,3.1
+877,Configuring Linux Web Servers,-1,Udacity,Self Paced,3 Reviews,4.3
+878,"Developing International Software, Part 1",Microsoft,edX,Self Paced,2 Reviews,3.5
+882,"Computing: Art, Magic, Science",ETH Zurich,edX,Self Paced,1 Reviews,4.0
+883,Introduction to Computer Vision,Georgia Institute of Technology,Udacity,Self Paced,7 Reviews,4.7
+884,Computational Photography,Georgia Institute of Technology,Udacity,Self Paced,1 Reviews,4.0
+886,Software Architecture & Design,Georgia Institute of Technology,Udacity,Self Paced,2 Reviews,4.5
+887,Introduction to Operating Systems,Georgia Institute of Technology,Udacity,Self Paced,2 Reviews,4.5
+891,Writing READMEs,-1,Udacity,Self Paced,2 Reviews,2.5
+893,Web Tooling & Automation,Google,Udacity,Self Paced,2 Reviews,4.5
+895,SAP S/4HANA in a Nutshell,-1,openSAP,Self Paced,1 Reviews,5.0
+897,SAP NetWeaver Upgrades in a Nutshell,-1,openSAP,Self Paced,1 Reviews,5.0
+898,Intro to Information Security,Georgia Institute of Technology,Udacity,Self Paced,2 Reviews,1.5
+902,Machine Learning,Georgia Institute of Technology,Udacity,Self Paced,6 Reviews,4.3
+903,Cybersecurity – The essential challenge for digital transformation,-1,openSAP,Self Paced,2 Reviews,3.0
+917,Technical Interview,Pramp,Udacity,Self Paced,1 Reviews,5.0
+921,Scalable Microservices with Kubernetes,Google,Udacity,Self Paced,6 Reviews,3.3
+922,CS For All: Introduction to Computer Science and Python Programming,Harvey Mudd College,edX,Self Paced,3 Reviews,5.0
+923,Sicherheit im Internet,-1,openHPI,Self Paced,1 Reviews,4.0
+930,Developing Windows 10 Universal Apps – Part 3,Microsoft,edX,Self Paced,1 Reviews,3.0
+940,Software Construction in Java,Massachusetts Institute of Technology,edX,Self Paced,5 Reviews,4.8
+943,"Nature, in Code: Biology in JavaScript",École Polytechnique Fédérale de Lausanne,edX,Self Paced,1 Reviews,3.0
+945,Computation Structures 2: Computer Architecture,Massachusetts Institute of Technology,edX,Self Paced,1 Reviews,4.0
+946,6.S191: Introduction to Deep Learning,Massachusetts Institute of Technology,Independent,Self Paced,2 Reviews,4.0
+948,Introduction to Computing using Python,Georgia Institute of Technology,edX,Self Paced,3 Reviews,5.0
+949,Deep Learning for Natural Language Processing,University of Oxford,Independent,Self Paced,1 Reviews,5.0
+950,6.S094: Deep Learning for Self-Driving Cars,Massachusetts Institute of Technology,Independent,Self Paced,2 Reviews,3.5
+954,Shell Workshop,-1,Udacity,Self Paced,2 Reviews,3.5
+955,Version Control with Git,-1,Udacity,Self Paced,2 Reviews,5.0
+958,"Learn TensorFlow and deep learning, without a Ph.D.",Google,Independent,Self Paced,2 Reviews,4.0
+962,Network Security,Georgia Institute of Technology,Udacity,Self Paced,1 Reviews,5.0
+966,How to Code: Complex Data,The University of British Columbia,edX,Self Paced,2 Reviews,5.0
+971,Software Construction: Data Abstraction,The University of British Columbia,edX,Self Paced,1 Reviews,3.0
+974,The Beauty and Joy of Computing - AP® CS Principles Part 1,"University of California, Berkeley",edX,Self Paced,2 Reviews,4.5
+975,Creative Applications of Deep Learning with TensorFlow II,-1,Kadenze,Self Paced,2 Reviews,3.5
+977,Computing Form and Shape: Python Programming with the Rhinoscript Library,Rhode Island School of Design,Kadenze,Self Paced,1 Reviews,5.0
+979,Cyber Security Economics,Delft University of Technology,edX,Self Paced,1 Reviews,2.0
+980,Software Construction: Object-Oriented Design,The University of British Columbia,edX,Self Paced,1 Reviews,2.0
+982,In-Memory Data Management,-1,openHPI,Self Paced,6 Reviews,3.7
+983,Creative Applications of Deep Learning with TensorFlow III,-1,Kadenze,Self Paced,1 Reviews,5.0
+986,Enterprise Deep Learning with TensorFlow,-1,openSAP,Self Paced,1 Reviews,2.0
+996,CS50's Understanding Technology,Harvard University,edX,Self Paced,5 Reviews,5.0
+997,CS50's Computer Science for Business Professionals,Harvard University,edX,Self Paced,3 Reviews,5.0
+999,Information and Communication Technology (ICT) Accessibility,Georgia Institute of Technology,edX,Self Paced,2 Reviews,4.0
+1001,Software Engineering: Introduction,The University of British Columbia,edX,Self Paced,1 Reviews,5.0
+1002,"Quantum Information Science I, Part 1",Massachusetts Institute of Technology,edX,Self Paced,2 Reviews,1.5
+1004,Data Structures: An Active Learning Approach,"University of California, San Diego",edX,Self Paced,5 Reviews,5.0
+1011,Machine Learning Crash Course with TensorFlow APIs,Google,Independent,Self Paced,1 Reviews,4.0
+1012,Software Development Capstone Project,The University of British Columbia,edX,Self Paced,2 Reviews,1.0
+1022,Principles of Machine Learning,Microsoft,edX,Self Paced,1 Reviews,5.0
+1023,Software Engineering Essentials,Technische Universität München (Technical University of Munich),edX,Self Paced,2 Reviews,3.5
+1025,"Quantum Information Science II, Part 2 - Efficient Quantum Computing - fault tolerance and complexity",Massachusetts Institute of Technology,edX,Self Paced,1 Reviews,3.0
+1039,Machine Learning: Unsupervised Learning,Brown University,Udacity,Self Paced,3 Reviews,3.3
+1045,Introduction to Computation Theory,Santa Fe Institute,Complexity Explorer,Self Paced,1 Reviews,5.0
+1046,Fundamentals of Machine Learning,Santa Fe Institute,Complexity Explorer,Self Paced,5 Reviews,4.6
+1089,Introduction to Device Programming,Microsoft,edX,Self Paced,1 Reviews,1.0
+1093,Windows Server 2016: Securing Identities and Information,Microsoft,edX,Self Paced,1 Reviews,5.0
+1103,Computer Graphics,"University of California, San Diego",edX,Self Paced,6 Reviews,3.8
+1106,Paradigms of Computer Programming – Fundamentals,Université catholique de Louvain,edX,Self Paced,5 Reviews,5.0
+1107,Intro to Deep Learning with PyTorch,Facebook,Udacity,Self Paced,2 Reviews,4.5
+1108,Introduction to Machine Learning for Coders!,fast.ai,Independent,Self Paced,1 Reviews,4.0
+1114,"Arduino Programming, from novice to ninja",Institut Mines-Télécom,edX,Self Paced,4 Reviews,4.8
+1116,Paradigms of Computer Programming – Abstraction and Concurrency,Université catholique de Louvain,edX,Self Paced,5 Reviews,4.4
+1137,Introducción a la programación en C: Instrucciones de control y ficheros de texto,Universidad Autónoma de Madrid,edX,Self Paced,2 Reviews,4.5
+1138,Introducción a la programación en C: Funciones y punteros,Universidad Autónoma de Madrid,edX,Self Paced,2 Reviews,3.0
+1140,Hacker Tools,Massachusetts Institute of Technology,Independent,Self Paced,1 Reviews,5.0
+1143,数据结构与算法设计(下) | Data Structures and Algorithm Design Part II,Tsinghua University,edX,Self Paced,1 Reviews,5.0
+1145,Innovation and IT Management,Indian Institute of Management Bangalore,edX,Self Paced,2 Reviews,5.0
+1146,Computational Thinking for Modeling and Simulation,Massachusetts Institute of Technology,edX,Self Paced,1 Reviews,2.0
+1147,Intro to TensorFlow for Deep Learning,-1,Udacity,Self Paced,3 Reviews,3.7
+1155,Algorithmic Design and Techniques,"University of California, San Diego",edX,Self Paced,3 Reviews,3.7
+1162,DevOps for Developers: How to Get Started,Microsoft,edX,Self Paced,3 Reviews,4.3
+1165,Foundations of Machine Learning,Bloomberg,Independent,Self Paced,1 Reviews,5.0
+1167,Quantum Machine Learning,University of Toronto,edX,Self Paced,1 Reviews,5.0
+1178,Introduction to Hyperledger Blockchain Technologies,Linux Foundation,edX,Self Paced,1 Reviews,4.0
+1179,Software Development Fundamentals,University of Pennsylvania,edX,Self Paced,2 Reviews,3.0
+1194,CS50's AP® Computer Science Principles,Harvard University,edX,Self Paced,1 Reviews,5.0
+1195,CS50 for Lawyers,Harvard University,edX,Self Paced,1 Reviews,5.0
+1196,Algorithm Design and Analysis,University of Pennsylvania,edX,Self Paced,1 Reviews,4.0
+1207,DevOps Practices and Principles,Microsoft,edX,Self Paced,1 Reviews,2.0
+1227,Algorithms and Data Structures,Microsoft,edX,Self Paced,1 Reviews,2.0
+1240,Bitcoin and Cryptocurrencies,"University of California, Berkeley",edX,Self Paced,1 Reviews,5.0
+1264,Reinforcement Learning Explained,Microsoft,edX,Self Paced,2 Reviews,3.0
+1265,Speech Recognition Systems,Microsoft,edX,Self Paced,3 Reviews,1.3
+1266,Natural Language Processing (NLP),Microsoft,edX,Self Paced,2 Reviews,1.0
+1272,Deep Learning Explained,Microsoft,edX,Self Paced,1 Reviews,5.0
+1274,Logic and Computational Thinking,Microsoft,edX,Self Paced,2 Reviews,5.0
+1275,Principles of Machine Learning: Python Edition,Microsoft,edX,Self Paced,1 Reviews,2.0
+1276,Principles of Machine Learning: R Edition,Microsoft,edX,Self Paced,1 Reviews,1.0
+1277,Essential Math for Machine Learning: R Edition,Microsoft,edX,Self Paced,1 Reviews,3.0
+1284,Computer Hardware and Operating Systems,New York University (NYU),edX,Self Paced,1 Reviews,5.0
+1285,Introduction to Networking,New York University (NYU),edX,Self Paced,2 Reviews,3.5
+1287,Deep Learning through Transformative Pedagogy,Microsoft,edX,Self Paced,1 Reviews,5.0
+1298,Ciberseguridad en Dispositivos Móviles (Vista previa sólo),-1,Canvas Network,Self Paced,3 Reviews,4.7
+1299,Programming for Everyone – An Introduction to Visual Programming Languages,Weizmann Institute of Science,edX,Self Paced,5 Reviews,3.8
+1303,C Programming: Modular Programming and Memory Management,Dartmouth,edX,Self Paced,3 Reviews,3.3
+1304,C Programming: Pointers and Memory Management,Dartmouth,edX,Self Paced,2 Reviews,5.0
+1306,C Programming: Language Foundations,Institut Mines-Télécom,edX,Self Paced,1 Reviews,5.0
+1308,Linux Basics: The Command Line Interface,Dartmouth,edX,Self Paced,2 Reviews,5.0
+1309,C Programming: Using Linux Tools and Libraries,Dartmouth,edX,Self Paced,2 Reviews,5.0
+1311,Introduzione all'informatica,University of Naples Federico II,edX,Self Paced,2 Reviews,5.0
+1314,Sparse Representations in Signal and Image Processing: Fundamentals,Technion - Israel Institute of Technology,edX,Self Paced,1 Reviews,5.0
+1319,Compilers,Stanford University,edX,Self Paced,2 Reviews,4.0
+1322,CS50's Introduction to Artificial Intelligence with Python,Harvard University,edX,Self Paced,1 Reviews,5.0
+1323,Algorithms,Indian Institute of Technology Bombay,edX,Self Paced,1 Reviews,5.0
+1337,Introduction to Cloud Foundry and Cloud Native Software Architecture,Linux Foundation,edX,Self Paced,1 Reviews,5.0
+1338,Sparse Representations in Image Processing: From Theory to Practice,Technion - Israel Institute of Technology,edX,Self Paced,5 Reviews,5.0
+1346,Introducción a la Inteligencia Artificial: Principales Algoritmos,Galileo University,edX,Self Paced,6 Reviews,4.3
+1354,Agile Software Development,ETH Zurich,edX,Self Paced,3 Reviews,4.3
+1355,Enabling Technologies for Data Science and Analytics: The Internet of Things,Columbia University,edX,Self Paced,5 Reviews,1.4
+1360,Advanced Machine Learning,ITMO University,edX,Self Paced,5 Reviews,4.6
+1362,Introduction to Cloud Infrastructure Technologies,Linux Foundation,edX,Self Paced,1 Reviews,4.0
+1364,Aplicaciones de la Teoría de Grafos a la vida real II,Universitat Politècnica de València,edX,Self Paced,1 Reviews,5.0
+1387,Autonomous Mobile Robots,ETH Zurich,edX,Self Paced,2 Reviews,4.5
+1401,Using GPUs to Scale and Speed-up Deep Learning,IBM,edX,Self Paced,1 Reviews,1.0
+1409,Basics of Computing and Programming,New York University (NYU),edX,Self Paced,1 Reviews,3.0
+1423,Introduction to the Internet of Things (IoT),Curtin University,edX,Self Paced,2 Reviews,3.0
+1429,Applied AI,IBM,edX,Self Paced,1 Reviews,4.0
+1439,Computer Science for Game Development,Harvard University,edX,Self Paced,1 Reviews,5.0
+1453,Intro to Machine Learning with PyTorch,Kaggle,Udacity,Self Paced,1 Reviews,1.0
+1489,Cisco Networking Basics,Cisco,Coursera,Self Paced,2 Reviews,5.0
+1511,Reinforcement Learning,University of Alberta,Coursera,Self Paced,1 Reviews,5.0
+1518,Cybersecurity,"University of Maryland, College Park",Coursera,Self Paced,2 Reviews,4.5
+1541,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",Coursera,Self Paced,1 Reviews,5.0
+1552,IBM Cybersecurity Analyst,IBM,Coursera,Self Paced,1 Reviews,5.0
+1584,Machine Learning,University of Washington,Coursera,Self Paced,1 Reviews,1.0
+1605,Malicious Software and its Underground Economy: Two Sides to Every Story,University of London International Programmes,Coursera,Self Paced,5 Reviews,3.8
+1609,Das liebe Geld - Finance im Alltag,University of Zurich,Coursera,"21st Sep, 2020",2 Reviews,5.0
+1610,Animation and CGI Motion,Columbia University,edX,"21st Sep, 2020",5 Reviews,3.8
+1613,Software Testing Management,University System of Maryland,edX,"22nd Sep, 2020",2 Reviews,2.0
+1617,Comprendre le coeur d'internet : les réseaux d'opérateurs,Institut Mines-Télécom,France Université Numerique,"30th Sep, 2020",1 Reviews,4.0
+1620,Object-oriented Programming in Python: Create Your Own Adventure Game,Raspberry Pi Foundation,FutureLearn,"5th Oct, 2020",1 Reviews,4.0
+1621,How Computers Work: Demystifying Computation,Raspberry Pi Foundation,FutureLearn,"5th Oct, 2020",1 Reviews,2.0
+1642,Formal Software Verification,University System of Maryland,edX,"1st Dec, 2020",1 Reviews,2.0
+1644,Cybersecurity Capstone,Rochester Institute of Technology,edX,"5th Jan, 2021",1 Reviews,3.0
+1646,Human-Computer Interaction I: Fundamentals & Design Principles,Georgia Institute of Technology,edX,"16th Aug, 2021",3 Reviews,5.0
+1647,"Human-Computer Interaction II: Cognition, Context & Culture",Georgia Institute of Technology,edX,"16th Aug, 2021",2 Reviews,5.0
+1649,"Human-Computer Interaction III: Ethics, Needfinding & Prototyping",Georgia Institute of Technology,edX,"16th Aug, 2021",1 Reviews,5.0
+1652,Coding - il linguaggio nascosto delle cose,Politecnico di Milano,Polimi OPEN KNOWLEDGE,"16th Mar, 2020",10 Reviews,4.6
+1653,Прикладные задачи анализа данных,Moscow Institute of Physics and Technology,Coursera,"10th Aug, 2020",1 Reviews,3.0
+1654,How Google does Machine Learning,Google Cloud,Coursera,"10th Aug, 2020",2 Reviews,5.0
+1659,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,Coursera,"12th Aug, 2020",2 Reviews,4.0
+1665,Design and Analysis of Algorithms,Chennai Mathematical Institute,Swayam,"16th Aug, 2020",1 Reviews,3.0
+1669,Creative Audio Programming on the Raspberry Pi,University of New South Wales,Kadenze,"18th Jan, 2017",2 Reviews,4.5
+1673,Comprendre la 4G,Institut Mines-Télécom,France Université Numerique,"10th Mar, 2020",2 Reviews,3.0
+1681,CIT-001: Fundamentals of Computer Systems,IGNOU,Swayam,"30th Jun, 2020",1 Reviews,1.0
+1683,Digital Forensic,"Doctor Harisingh Gour Vishwavidyalaya, Sagar",Swayam,"5th Jul, 2020",1 Reviews,5.0
+1684,Artificial Intelligence: Search Methods for Problem Solving,Indian Institute of Technology Madras,Swayam,"19th Jul, 2020",1 Reviews,4.0
+1686,Introduction to Operating Systems,Indian Institute of Technology Madras,Swayam,"19th Jul, 2020",2 Reviews,3.5
+1687,Introduction to Machine Learning,Indian Institute of Technology Madras,Swayam,"19th Jul, 2020",1 Reviews,5.0
+1690,Deep Learning For Visual Computing,"Indian Institute of Technology, Kharagpur",Swayam,"19th Jul, 2020",1 Reviews,4.0
+1693,Introduction to Internet of Things,"Indian Institute of Technology, Kharagpur",Swayam,"19th Jul, 2020",2 Reviews,5.0
+1699,The Joy of Computing using Python,"Indian Institute of Technology, Ropar",Swayam,"19th Jul, 2020",2 Reviews,5.0
+1715,Running Product Design Sprints,University of Virginia,Coursera,"3rd Aug, 2020",1 Reviews,3.0
+1717,Intro to Computer Science,University of Virginia,Udacity,"16th Apr, 2012",71 Reviews,4.5
+1718,Computer Vision: The Fundamentals,"University of California, Berkeley",Coursera,"23rd Apr, 2012",3 Reviews,3.7
+1719,An Introduction to Computer Networks,Stanford University,Independent,"8th Oct, 2012",3 Reviews,3.7
+1720,6.00x: Introduction to Computer Science and Programming,Massachusetts Institute of Technology,edX,"4th Feb, 2013",12 Reviews,4.7
+1721,Natural Language Processing,Columbia University,Coursera,"24th Feb, 2013",7 Reviews,4.6
+1722,Pattern-Oriented Software Architectures for Concurrent and Networked Software,Vanderbilt University,Coursera,"4th Mar, 2013",3 Reviews,5.0
+1724,Startup Engineering,Stanford University,Coursera,"17th Jun, 2013",8 Reviews,4.6
+1725,Introduction to Systematic Program Design - Part 1,The University of British Columbia,Coursera,"4th Sep, 2013",6 Reviews,4.8
+1726,Arithmétique: en route pour la cryptographie,Université Lille 1,Canvas Network,"7th Oct, 2013",1 Reviews,3.0
+1730,Introduction to Grid Computing,University of Amsterdam,Independent,"18th Nov, 2013",2 Reviews,3.5
+1731,Computer Networks,University of Washington,Coursera,"6th Jan, 2014",15 Reviews,4.9
+1732,Discrete Inference and Learning in Artificial Vision,École Centrale Paris,Coursera,"10th Jan, 2014",2 Reviews,2.5
+1734,Linear and Discrete Optimization,École Polytechnique Fédérale de Lausanne,Coursera,"17th Mar, 2014",4 Reviews,4.3
+1735,Machine Learning 1—Supervised Learning,Brown University,Udacity,"17th Mar, 2014",1 Reviews,4.0
+1746,Developing Scalable Apps in Java,Google,Udacity,"25th Jun, 2014",1 Reviews,4.0
+1747,The Hardware/Software Interface,University of Washington,Coursera,"30th Jun, 2014",11 Reviews,4.5
+1750,Information Security and Risk Management in Context,University of Washington,Coursera,"26th Aug, 2014",8 Reviews,2.4
+1751,Designing and Executing Information Security Strategies,University of Washington,Coursera,"26th Aug, 2014",1 Reviews,5.0
+1752,Building an Information Risk Management Toolkit,University of Washington,Coursera,"26th Aug, 2014",1 Reviews,4.0
+1754,Introduction to Cybersecurity,National Cybersecurity Institute at Excelsior College,Canvas Network,"22nd Sep, 2014",2 Reviews,2.5
+1755,How to Use Git and GitHub,-1,Udacity,"23rd Sep, 2014",50 Reviews,4.5
+1756,Informatik für Ökonomen,University of Zurich,Coursera,"26th Oct, 2014",2 Reviews,3.5
+1757,Einführung in die Internetsicherheit,-1,openHPI,"27th Oct, 2014",1 Reviews,4.0
+1758,Heterogeneous Parallel Programming,University of Illinois at Urbana-Champaign,Coursera,"12th Jan, 2015",9 Reviews,4.3
+1759,Artificial Intelligence Planning,University of Edinburgh,Coursera,"12th Jan, 2015",7 Reviews,3.9
+1763,Einführung in Computer Vision,Technische Universität München (Technical University of Munich),Coursera,"19th Jan, 2015",2 Reviews,3.5
+1764,Fog Networks and the Internet of Things,Princeton University,Coursera,"2nd Mar, 2015",3 Reviews,3.7
+1766,Introduction to Computer Networking,Stanford University,Stanford OpenEdx,"31st Mar, 2015",12 Reviews,4.8
+1768,DEV202.2x: Building Cloud Apps with Microsoft Azure – Part 2,Microsoft,edX,"12th May, 2015",1 Reviews,3.0
+1773,CS190.1x: Scalable Machine Learning,"University of California, Berkeley",edX,"29th Jun, 2015",31 Reviews,4.5
+1774,JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction,Oracle,Independent,"14th Jul, 2015",6 Reviews,4.8
+1780,Microsoft Enterprise Mobility Suite,Microsoft,edX,"15th Sep, 2015",1 Reviews,5.0
+1782,Computer Security,Stanford University,Coursera,Self Paced,2 Reviews,3.0
+1783,Introduction à la logique informatique - Partie 1 : calcul propositionnel,Université Paris-Saclay,France Université Numerique,"12th Nov, 2015",1 Reviews,5.0
+1785,Data Science and Machine Learning Essentials,Microsoft,edX,"15th Nov, 2015",6 Reviews,3.8
+1786,Machine Learning,University of Washington,Coursera,Self Paced,4 Reviews,4.0
+1787,Computer Science 101,Stanford University,Coursera,Self Paced,23 Reviews,4.1
+1791,Intro to Deep Learning,Google,Udacity,"27th Jan, 2016",52 Reviews,1.8
+1794,Mobile Robots and Autonomous Vehicles,Inria (French Institute for Research in Computer Science and Automation),France Université Numerique,"8th Feb, 2016",1 Reviews,4.0
+1796,General Game Playing,Stanford University,Coursera,"28th Mar, 2016",2 Reviews,5.0
+1798,Introduction to Real-Time Systems,IEEE,edX,"5th Apr, 2016",2 Reviews,2.5
+1801,Modelling and Simulation using Simulink,RheinMain University of Applied Sciences,iversity,"31st May, 2016",3 Reviews,4.3
+1807,Distributed Machine Learning with Apache Spark,"University of California, Berkeley",edX,"11th Jul, 2016",5 Reviews,4.0
+1808,Introduction to Data Analytics,Indian Institute of Technology Madras,Swayam,"18th Jul, 2016",2 Reviews,3.5
+1809,Quantum Information and Computing,Indian Institute of Technology Bombay,Swayam,"18th Jul, 2016",1 Reviews,5.0
+1811,Introduction to Recommender Systems,University of Minnesota,Coursera,"5th Sep, 2016",21 Reviews,3.4
+1812,Introduction to Windows PowerShell,Microsoft,edX,"20th Sep, 2016",1 Reviews,5.0
+1813,Initiation à la conception orientée objet,University of Sousse,France Université Numerique,"26th Sep, 2016",1 Reviews,4.0
+1814,Introduction to Microsoft Azure,Microsoft,edX,"27th Sep, 2016",1 Reviews,3.0
+1815,Robotic Vision,Queensland University of Technology,EdCast,"3rd Oct, 2016",4 Reviews,4.8
+1819,Creative Applications of Deep Learning with TensorFlow,-1,Kadenze,"25th Oct, 2016",46 Reviews,4.7
+1820,"Algorithms: Design and Analysis, Part 2",Stanford University,Coursera,"31st Oct, 2016",19 Reviews,4.7
+1823,Introduction to Natural Language Processing,University of Michigan,Coursera,"5th Dec, 2016",9 Reviews,3.4
+1835,Machine Learning: Recommender Systems & Dimensionality Reduction,University of Washington,Coursera,"30th Jan, 2017",2 Reviews,3.5
+1837,Introduction to Data Storage and Management Technologies,IEEE,edX,"17th Feb, 2017",1 Reviews,3.0
+1843,Cyber Security: Protecting Yourself and Your Data,IEEE,edX,"19th Apr, 2017",1 Reviews,1.0
+1849,Modeling Discrete Optimization,University of Melbourne,Coursera,"29th May, 2017",6 Reviews,3.8
+1850,Learning From Data (introductory Machine Learning course),California Institute of Technology,edX,"16th Jun, 2017",21 Reviews,4.5
+1854,"Computing, Storage and Security with Google Cloud Platform",Google,Coursera,"3rd Jul, 2017",1 Reviews,4.0
+1857,So You Want to Become a Biomedical Engineer,IEEE,edX,"9th Aug, 2017",2 Reviews,5.0
+1861,TV Whitespaces for Museums and Archives,San Jose State University,Canvas Network,"25th Sep, 2017",1 Reviews,5.0
+1862,Introduction to Logic,Stanford University,Stanford OpenEdx,"25th Sep, 2017",1 Reviews,5.0
+1864,Fundamentals of Computer Architecture,EIT Digital,Coursera,"2nd Oct, 2017",1 Reviews,2.0
+1866,Reliable Distributed Algorithms - Part 1,KTH Royal Institute of Technology,edX,"17th Oct, 2017",1 Reviews,5.0
+1867,The Internet of Things,King's College London,FutureLearn,"6th Nov, 2017",7 Reviews,4.1
+1873,"Programming, Data Structures and Algorithms",Indian Institute of Technology Madras,Swayam,"5th Feb, 2018",2 Reviews,1.5
+1880,Digital Accessibility as a Business Practice,Ryerson University,Canvas Network,"5th Feb, 2018",10 Reviews,4.5
+1888,Basics of ICT,Fontys Hogeschool ICT,Canvas Network,"12th Mar, 2018",1 Reviews,4.0
+1895,IT Automation: It’s not that scary!,Google,Coursera,"28th May, 2018",6 Reviews,1.0
+1899,Cryptography II,Stanford University,Coursera,"1st Sep, 2018",4 Reviews,4.0
+1903,Smartphone Emerging Technologies,Yonsei University,Coursera,"1st Oct, 2018",3 Reviews,2.3
+1905,Internet Emerging Technologies,Yonsei University,Coursera,"1st Oct, 2018",2 Reviews,3.0
+1906,Internet of Things & Augmented Reality Emerging Technologies,Yonsei University,Coursera,"1st Oct, 2018",4 Reviews,2.5
+1907,Wireless Communication Emerging Technologies,Yonsei University,Coursera,"1st Oct, 2018",3 Reviews,3.7
+1912,Neural Networks for Machine Learning,University of Toronto,Coursera,"26th Nov, 2018",26 Reviews,3.7
+1915,Natural Language Processing,Stanford University,Coursera,Self Paced,7 Reviews,5.0
+1919,Biometric Technologies: Identification for the Future (January 2019),Canberra Institute of Technology,Canvas Network,"22nd Jan, 2019",8 Reviews,4.3
+1922,AI:Knowledge Representation and Reasoning,Indian Institute of Technology Madras,Swayam,"28th Jan, 2019",1 Reviews,4.0
+1934,"Cyber Security: Safety at Home, Online, in Life",Newcastle University,FutureLearn,"18th Feb, 2019",2 Reviews,4.0
+1939,Health Informatics on FHIR,Georgia Institute of Technology,Coursera,"11th Mar, 2019",4 Reviews,4.3
+1945,How to Build a Chatbot Without Coding,IBM,Coursera,"6th May, 2019",1 Reviews,5.0
+1950,A developer's guide to the Internet of Things (IoT),IBM,Coursera,"27th May, 2019",1 Reviews,4.0
+1955,IBM Blockchain Foundation for Developers,IBM,Coursera,"17th Jun, 2019",1 Reviews,5.0
+1967,Theory of Computation,Indian Institute of Technology Kanpur,Swayam,"29th Jul, 2019",1 Reviews,5.0
+1968,Joy of computing using Python,"Indian Institute of Technology, Ropar",Swayam,"29th Jul, 2019",1 Reviews,5.0
+1979,Ethical Hacking,"Indian Institute of Technology, Kharagpur",Swayam,"29th Jul, 2019",2 Reviews,5.0
+1982,Deep Learning Part 1 (IITM),Indian Institute of Technology Madras,Swayam,"29th Jul, 2019",1 Reviews,5.0
+1987,G Suite Administrator Fundamentals,Google Cloud,Coursera,"19th Aug, 2019",1 Reviews,5.0
+2001,La Web Semántica: Herramientas para la publicación y extracción efectiva de información en la Web,Pontificia Universidad Católica de Chile,Coursera,"30th Dec, 2019",2 Reviews,1.0
+2003,Supervision de Réseaux et Services,Université de Lorraine,France Université Numerique,"7th Jan, 2020",1 Reviews,5.0
+2018,Automotive Cyber Security: An Introduction,Coventry University,FutureLearn,"20th Jan, 2020",1 Reviews,1.0
+2046,"Machine Learning,ML",KTH Royal Institute of Technology,Swayam,"24th Feb, 2020",1 Reviews,4.0
+2051,Les réseaux d'accès optiques FTTH,Institut Mines-Télécom,France Université Numerique,"10th Mar, 2020",1 Reviews,5.0
+2053,Blockchain in the Energy Sector,InnoEnergy,FutureLearn,"16th Mar, 2020",1 Reviews,2.0
+2068,Routage et qualité de service dans l'Internet,Institut Mines-Télécom,France Université Numerique,"6th May, 2020",1 Reviews,5.0
+2069,Introduction to Cyber Security,The Open University,FutureLearn,"11th May, 2020",20 Reviews,4.2
