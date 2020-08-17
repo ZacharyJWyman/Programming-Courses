@@ -1,2 +1,2 @@
 # Programming-Class-Analysis-
-web scraped data to determine best classes to take
+Web Scraper used for collecting data to determine the best programming courses on https://www.classcentral.com/
