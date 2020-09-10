@@ -15,7 +15,7 @@ Web Scraper used for collecting data to determine the best programming courses o
 * Data is gathered from https://www.classcentral.com/ using a webscraper that I created.
 
 ## About
-With online education increasing every year, it is getting harder to determine the best online course to take. There are so many courses and youw ant to make sure that you are getting the best bang for your buck. This project webscrapes data from multiple domains on https://classcentral.com and determines the best programming courses with the most reviews. 
+With online education increasing every year, it is getting harder to determine the best online course to take. There are numerous courses available and you  want to make sure that you are getting the best bang for your buck. This project webscrapes data from multiple domains on https://classcentral.com and determines the best programming courses with the most reviews. 
 
 ## Libraries
 * Pandas, matplotlib, seaborn, beautifulsoup, requests
