@@ -2,7 +2,8 @@
 Web Scraper used for collecting data to determine the best programming courses on https://www.classcentral.com/
 
 ## To view notebook code:
-
+https://github.com/ZacharyJWyman/Programming-Courses/blob/master/notebooks/Webscraping%20Data%20to%20Determine%20Best%20Programming%20Courses%20.ipynb
+  
 ## Table of Contents
 * [Data](#Data)
 * [About](#About)
