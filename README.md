@@ -33,7 +33,7 @@ Insert image here
 * Cleaned and processed data to determine the best programming courses to take online and which provider to take the course through. 
 
 ### What I learned:
-In this project I gained familiarity working with beautifulsoup. Web scraping is such a powerul tool, opening up any source online as a potential data bank. To understand how each webpage was set up, I had to brush up on my knowledge of html script. Initially, the data was very messy and I had to spend a substantial amount of time putting it into a usable format for analysis. To finish the project off I worked with matplotlib and seaborn to create subplots. This added to my knowledge in formatting adjustments to make my plots look more refined. 
+In this project I gained familiarity working with beautifulsoup. Web scraping is such a powerul tool, opening up any source online as a potential data bank. To understand how each webpage was set up, I had to brush up on my knowledge of html script. Initially, the data was very messy and I had to spend a substantial amount of time putting it into a usable format for analysis. To finish the project off, I worked with matplotlib and seaborn to create subplots. This added to my knowledge in formatting adjustments to make my plots look more refined. 
 
 ## Author
 Created by *Zachary Wyman*  
