@@ -30,4 +30,5 @@ Insert image here
 * 
 
 ## Author
-** Zachary Wyman ** 
+Created by * Zachary Wyman *  
+Contact: zack.wyman1@gmail.com   
